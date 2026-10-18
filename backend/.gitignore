@@ -1,0 +1,12 @@
+# Environment secrets (Prevents your API key from ever leaking to Render/GitHub)
+.env
+*.env
+
+# Python Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]

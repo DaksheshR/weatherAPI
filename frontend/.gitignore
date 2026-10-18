@@ -1,0 +1,8 @@
+# Future dependencies & build output (if you add npm/vite later)
+node_modules/
+dist/
+.vercel
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
