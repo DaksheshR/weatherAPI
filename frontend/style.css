@@ -1,3 +1,9 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 body {
   font-family: Arial, sans-serif;
   background: #1e272e;
@@ -14,6 +20,7 @@ input {
   width: 200px;
   border: none;
   border-radius: 5px;
+  font-size: 16px;
 }
 
 button {
