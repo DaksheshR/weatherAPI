@@ -1,6 +1,6 @@
 // ✅ Change this to your Render URL after deploying backend
 // Example: "https://your-app-name.onrender.com"
-const API_URL = "http://localhost:8000";
+const API_URL = "https://weatherapi-backend-5s5s.onrender.com";
 
 async function getWeather() {
   const city = document.getElementById("city").value.trim();
