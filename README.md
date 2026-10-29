@@ -76,3 +76,5 @@ Open `frontend/index.html` in your browser.
 | :----- | :------- | :---------- |
 | GET | `/` | Health check |
 | GET | `/weather?city={city}` | Get weather data for a city |
+
+https://weatherapi-frontend.vercel.app/
